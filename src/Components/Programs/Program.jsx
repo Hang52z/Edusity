@@ -7,7 +7,7 @@ import program_icon_1 from '../../assets/Graduation_degree_icon.png'
 import program_icon_2 from '../../assets/Master_degree_icon.png'
 import program_icon_3 from '../../assets/Post_graduation_icon.png'
 
-const proprogram = () => {
+const program = () => {
   return (
     <div className='programs'>
         <div className="program">
@@ -36,4 +36,4 @@ const proprogram = () => {
   )
 }
 
-export default proprogram
+export default program
